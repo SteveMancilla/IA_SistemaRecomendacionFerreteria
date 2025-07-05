@@ -1,4 +1,4 @@
-setuptools
+setuptools>=61
 wheel
 --prefer-binary
 anyio==4.9.0
